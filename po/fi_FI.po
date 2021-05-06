@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: libsignonui 20090817101959\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.08.17 10:19+0300\n"
 "PO-Revision-Date: 2009.08.17 10:19+0300\n"
 "Last-Translator:\n"

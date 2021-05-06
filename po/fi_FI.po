@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libsignonui 20090817101959\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.17 10:19+0300\n"
+"PO-Revision-Date: 2009.08.17 10:19+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sso_fi_confirmation_after_adding_new_account_into_sso"
+msgstr ""
+"Kirjataanko %s automaattisesti sisään Ovi by Nokia -palveluihin ja otetaanko "
+"jakaminen ja pikaviestit käyttöön?"
+
+msgid "sso_fi_never_sign_in_automatically"
+msgstr "Ei koskaan tähän palveluun"
+
+msgid "sso_fi_sign_in_always_with"
+msgstr "Kirjaudu aina sisään tunnuksella"

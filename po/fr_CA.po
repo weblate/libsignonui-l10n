@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libsignonui 20090817101959\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.17 10:19+0300\n"
+"PO-Revision-Date: 2009.08.17 10:19+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "sso_fi_confirmation_after_adding_new_account_into_sso"
+msgstr ""
+"Ouvrir automatiquement une session en tant que %s avec Ovi de Nokia et "
+"activer le partage et la discussion ?"
+
+msgid "sso_fi_never_sign_in_automatically"
+msgstr "Désactiver pour ce service"
+
+msgid "sso_fi_sign_in_always_with"
+msgstr "Toujours ouvrir la session avec"

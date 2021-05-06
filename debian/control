@@ -1,0 +1,119 @@
+Source: libsignonui-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: libsignonui-l10n-mr0
+Section: misc
+Architecture: all
+Provides: libsignonui-l10n-mr
+Depends: libsignonui-l10n-ruru, libsignonui-l10n-frfr, libsignonui-l10n-frca, libsignonui-l10n-dadk, libsignonui-l10n-itit, libsignonui-l10n-svse, libsignonui-l10n-nono, libsignonui-l10n-fifi, libsignonui-l10n-nlnl, libsignonui-l10n-enus, libsignonui-l10n-dede, libsignonui-l10n-esmx, libsignonui-l10n-eses, libsignonui-l10n-cscz, libsignonui-l10n-ptpt, libsignonui-l10n-engb, libsignonui-l10n-plpl
+Description: libsignonui marketing release package
+ This is a metapackage for libsignonui to pull all the l10n packages.
+ Application developers of libsignonui should depend on
+ "libsignonui-l10n-mr0 | libsignonui-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: libsignonui-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for libsignonui (cs_CZ)
+ Language files for cs_CZ libsignonui.
+
+Package: libsignonui-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for libsignonui (da_DK)
+ Language files for da_DK libsignonui.
+
+Package: libsignonui-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for libsignonui (de_DE)
+ Language files for de_DE libsignonui.
+
+Package: libsignonui-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for libsignonui (en_GB)
+ Language files for en_GB libsignonui.
+
+Package: libsignonui-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for libsignonui (en_US)
+ Language files for en_US libsignonui.
+
+Package: libsignonui-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for libsignonui (es_ES)
+ Language files for es_ES libsignonui.
+
+Package: libsignonui-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for libsignonui (es_MX)
+ Language files for es_MX libsignonui.
+
+Package: libsignonui-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for libsignonui (fi_FI)
+ Language files for fi_FI libsignonui.
+
+Package: libsignonui-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for libsignonui (fr_CA)
+ Language files for fr_CA libsignonui.
+
+Package: libsignonui-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for libsignonui (fr_FR)
+ Language files for fr_FR libsignonui.
+
+Package: libsignonui-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for libsignonui (it_IT)
+ Language files for it_IT libsignonui.
+
+Package: libsignonui-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for libsignonui (nl_NL)
+ Language files for nl_NL libsignonui.
+
+Package: libsignonui-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for libsignonui (no_NO)
+ Language files for no_NO libsignonui.
+
+Package: libsignonui-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for libsignonui (pl_PL)
+ Language files for pl_PL libsignonui.
+
+Package: libsignonui-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for libsignonui (pt_PT)
+ Language files for pt_PT libsignonui.
+
+Package: libsignonui-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for libsignonui (ru_RU)
+ Language files for ru_RU libsignonui.
+
+Package: libsignonui-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for libsignonui (sv_SE)
+ Language files for sv_SE libsignonui.

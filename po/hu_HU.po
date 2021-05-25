@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libsignonui 20090817101959\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.17 10:19+0300\n"
+"PO-Revision-Date: 2010-03-05 16:45+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "sso_fi_confirmation_after_adding_new_account_into_sso"
+msgstr "%s bejelentkezzen automatikusan a Nokia Ovi-ba, majd aktiválja a megosztást és az azonnali üzenetküldést?"
+
+msgid "sso_fi_never_sign_in_automatically"
+msgstr "Ne legyen automatikus bejelentkezés"
+
+msgid "sso_fi_sign_in_always_with"
+msgstr "Mindig jelentkezzen be ezzel"
+
